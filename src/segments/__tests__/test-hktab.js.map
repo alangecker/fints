@@ -1,0 +1,1 @@
+{"version":3,"file":"test-hktab.js","sourceRoot":"","sources":["test-hktab.ts"],"names":[],"mappings":";;AAAA,oCAAiC;AACjC,mCAAsC;AAEtC,mBAAW,CAAC,aAAK,EAAE;IACf;QACI,UAAU,EAAE,gBAAgB;QAC5B,UAAU,EAAE;YACR,IAAI,EAAE,OAAO;YACb,KAAK,EAAE,CAAC;YACR,OAAO,EAAE,CAAC;YACV,IAAI,EAAE,CAAC;SACV;KACJ;CACJ,EAAE,KAAK,CAAC,CAAC"}

@@ -6,9 +6,20 @@
         "declaration": true,
         "noImplicitAny": true,
         "experimentalDecorators": true,
-        "lib": ["es7", "dom"],
+        "lib": [
+            "es7",
+            "dom"
+        ],
         "emitDecoratorMetadata": true,
         "sourceMap": true,
-        "resolveJsonModule": true
-    }
+        "resolveJsonModule": true,
+        "outDir": "dist",
+        "rootDir": "src"
+    },
+    "include": [
+        "src/**/*.ts"
+    ],
+    "exclude": [
+        "**/__tests__/*"
+    ]
 }
